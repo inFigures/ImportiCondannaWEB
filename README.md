@@ -33,6 +33,10 @@ pip install streamlit PyPDF2 pandas google-generativeai
    - Spese di giustizia.
    - Elenco condannati e importi con una tabella.
 
+Se non desideri eseguire l'applicazione localmente, puoi anche utilizzare la versione online accessibile tramite il seguente link:
+
+https://importi-condanna.streamlit.app/
+
 ## Esecuzione
 
 Per avviare l'applicazione, esegui il seguente comando:
